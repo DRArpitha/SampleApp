@@ -1,0 +1,15 @@
+.project
+.classpath
+.settings
+.DS_Store
+*.iml
+*.ipr
+*.iws
+.idea*
+bin
+build
+target
+
+generated-sources
+node_modules
+
